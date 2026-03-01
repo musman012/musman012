@@ -1,9 +1,9 @@
 <!-- ============================= -->
-<!--         TECH BANNER          -->
+<!--         TOP BANNER IMAGE      -->
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/vEE00Hx5d0Q/download?force=true" alt="tech banner" style="width:100%;max-height:300px;object-fit:cover;" />
+  <img src="./assets/coding-banner.jpg" alt="coding banner" width="100%">
 </p>
 
 <!-- ============================= -->
@@ -13,29 +13,34 @@
 <h2 align="center">Hi 👋, I'm Muhammad Usman</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=23&center=true&vCenter=true&width=750&lines=Python+Backend+Engineer;Backend+Odoo+Developer;DevOps+Engineer+in+Progress;PostgreSQL+Specialist;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=24&center=true&vCenter=true&width=800&lines=Python+Backend+Engineer;Backend+Odoo+Developer;DevOps+Engineer+in+Progress;PostgreSQL+Specialist;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-I am a **Python Backend Engineer** transitioning into a **DevOps-focused Engineer**, passionate about building scalable, reliable, and production-ready backend systems.
+I am a **Python Backend Engineer** evolving into a **DevOps Engineer**, focused on building scalable, reliable, and production-ready backend systems.
 
-With strong expertise in **Python**, **PostgreSQL**, and hands-on experience as a **Backend Odoo Developer**, I design business logic, optimize database performance, and build maintainable architectures.
+With strong expertise in **Python**, **PostgreSQL**, and professional experience as a **Backend Odoo Developer**, I specialize in:
 
-Currently strengthening my DevOps capabilities in:
+- Designing backend architectures  
+- Writing clean and optimized business logic  
+- Improving database performance  
+- Building maintainable ERP systems  
+
+Currently expanding into:
 
 - Docker & containerized environments  
 - Linux server management  
 - CI/CD pipelines  
-- Deployment & automation workflows  
+- Deployment automation  
 
-I believe great backend engineering combines clean code, strong database design, and infrastructure awareness.
+I approach backend development with an infrastructure-aware mindset.
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Core Skills
 
 ### 🐍 Backend Engineering
 - Advanced Python programming  
@@ -59,8 +64,8 @@ I believe great backend engineering combines clean code, strong database design,
 
 ### 🏢 ERP Development
 - Odoo backend module development  
-- ORM & model extensions  
-- Access control & security rules  
+- ORM extensions  
+- Security & access rules  
 - Workflow customization  
 
 ---
@@ -81,11 +86,11 @@ I believe great backend engineering combines clean code, strong database design,
 
 ---
 
-## 🎯 Engineering Direction
+## 🎯 Engineering Focus
 
-- Scalable backend system design  
-- DevOps-driven development approach  
-- Infrastructure-aware backend architecture  
+- Scalable backend architecture  
+- DevOps-driven development  
+- Infrastructure-aware engineering  
 - Automation & deployment optimization  
 
 ---
@@ -104,8 +109,4 @@ Actively seeking roles as:
 
 <p align="center">
   <i>Engineering backend systems with a DevOps mindset.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 </p>
