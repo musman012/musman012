@@ -102,8 +102,8 @@ Actively seeking roles as:
 
 - Python Backend Engineer  
 - Backend Odoo Developer  
-- Junior DevOps Engineer  
-📫 Get in Touch: Let's connect! You can reach me at muhammadusmanx4@gmail.com. Whether you have a project in mind or just want to network, I'm always open to new opportunities and discussions.
+- Junior DevOps Engineer
+- 📫 Get in Touch: Let's connect! You can reach me at muhammadusmanx4@gmail.com. Whether you have a project in mind or just want to network, I'm always open to new opportunities and discussions.
 ---
 
 <p align="center">
