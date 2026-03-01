@@ -1,9 +1,9 @@
 <!-- ============================= -->
-<!--         HEADER BANNER        -->
+<!--         TECH BANNER          -->
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Muhammad%20Usman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&animation=fadeIn"/>
 </p>
 
 <!-- ============================= -->
@@ -13,56 +13,55 @@
 <h2 align="center">Hi 👋, I'm Muhammad Usman</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=23&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;DevOps+Engineer+in+Progress;System+Design+Enthusiast;Odoo+ERP+Specialist;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=23&center=true&vCenter=true&width=750&lines=Python+Backend+Engineer;Backend+Odoo+Developer;DevOps+Engineer+in+Progress;PostgreSQL+Specialist;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-I am a **Python Backend Developer** evolving into a **DevOps Engineer**, focused on building scalable, production-ready backend systems.
+I am a **Python Backend Engineer** transitioning into a **DevOps-focused Engineer**, passionate about building scalable, reliable, and production-ready backend systems.
 
-With strong expertise in **Python**, **PostgreSQL**, and real-world experience in **Odoo ERP backend customization**, I specialize in writing clean business logic, optimizing databases, and designing maintainable architectures.
+With strong expertise in **Python**, **PostgreSQL**, and hands-on experience as a **Backend Odoo Developer**, I design business logic, optimize database performance, and build maintainable architectures.
 
-Currently expanding my expertise into:
+Currently strengthening my DevOps capabilities in:
 
-- Dockerized environments  
+- Docker & containerized environments  
+- Linux server management  
 - CI/CD pipelines  
-- Infrastructure fundamentals  
-- Deployment & automation  
+- Deployment & automation workflows  
 
-I believe backend engineering is not just about code — it's about systems, performance, and reliability.
+I believe great backend engineering combines clean code, strong database design, and infrastructure awareness.
 
 ---
 
 ## 🧠 Core Competencies
 
 ### 🐍 Backend Engineering
-- Advanced Python programming
-- Modular architecture design
-- API integrations
-- Business logic implementation
-- Performance-focused backend systems
+- Advanced Python programming  
+- REST API integrations  
+- Modular architecture design  
+- Business workflow automation  
+- Performance-focused backend systems  
 
 ### ⚙️ DevOps Engineering
-- Docker containerization
-- Linux server environments
-- Git & GitHub workflows
-- CI/CD fundamentals
-- Deployment strategies
+- Docker containerization  
+- Linux environments  
+- Git & GitHub workflows  
+- CI/CD fundamentals  
+- Deployment strategies  
 
 ### 🗄 Database Engineering
-- PostgreSQL schema design
-- Query optimization
-- Data integrity & constraints
-- Performance tuning
+- PostgreSQL schema design  
+- Query optimization  
+- Performance tuning  
+- Data integrity & constraints  
 
-### 🏢 ERP Specialization
-- Odoo backend development
-- Custom module creation
-- ORM extensions
-- Access control & security rules
-- Workflow automation
+### 🏢 ERP Development
+- Odoo backend module development  
+- ORM & model extensions  
+- Access control & security rules  
+- Workflow customization  
 
 ---
 
@@ -70,15 +69,6 @@ I believe backend engineering is not just about code — it's about systems, per
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,git,github,react,js,html,css" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musman012&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musman012&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -91,12 +81,12 @@ I believe backend engineering is not just about code — it's about systems, per
 
 ---
 
-## 🎯 Engineering Focus
+## 🎯 Engineering Direction
 
-- Scalable backend architecture  
-- Infrastructure awareness for backend engineers  
-- High-performance database design  
-- Automation & deployment workflows  
+- Scalable backend system design  
+- DevOps-driven development approach  
+- Infrastructure-aware backend architecture  
+- Automation & deployment optimization  
 
 ---
 
@@ -105,17 +95,17 @@ I believe backend engineering is not just about code — it's about systems, per
 Actively seeking roles as:
 
 - Python Backend Engineer  
+- Backend Odoo Developer  
 - Junior DevOps Engineer  
-- Backend / Infrastructure Engineer  
 
 📧 muhammadusmanx4@gmail.com  
 
 ---
 
 <p align="center">
-  <i>Engineering reliable backend systems with DevOps mindset.</i>
+  <i>Engineering backend systems with a DevOps mindset.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 </p>
