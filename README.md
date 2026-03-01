@@ -2,8 +2,9 @@
 <!--         TOP BANNER IMAGE      -->
 <!-- ============================= -->
 
+
 <p align="center">
-  <img src="./assets/coding-banner.jpg" alt="coding banner" width="100%">
+  <img src="./assests/coding-banner.jpg" alt="coding banner" width="100%">
 </p>
 
 <!-- ============================= -->
