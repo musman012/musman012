@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&animation=fadeIn"/>
+  <img src="https://unsplash.com/photos/vEE00Hx5d0Q/download?force=true" alt="tech banner" style="width:100%;max-height:300px;object-fit:cover;" />
 </p>
 
 <!-- ============================= -->
